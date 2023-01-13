@@ -1,0 +1,29 @@
+h1 {
+    position: center;
+    font-family: 'Geostar Fill', cursive ;
+    position: relative;
+    background-color: greenyellow;
+    top: -65px;
+    left: 430px;
+    font-size: 85px;
+}
+
+body {
+    background-image: url("https://live.staticflickr.com/4050/4525633155_813cc2cc8a_b.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+.steps {
+    color: greenyellow;
+    text-align: right;
+    font-size: large;
+
+}
+
+#directions {
+    color: greenyellow;
+    text-align: right;
+    font-size: large;
+}
